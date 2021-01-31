@@ -10,3 +10,7 @@ Park-Safe is data-powered application which provides **real-time recommendations
 ### Project Video: [youtube link](https://www.youtube.com/watch?v=F9FsRj7b0oI)
 
 A detailed PDF report of our work is available inside the report/ directory
+
+### Project Demo: 
+
+The demo version is hosted on the following ec2 (not always live): http://18.188.68.170/ 

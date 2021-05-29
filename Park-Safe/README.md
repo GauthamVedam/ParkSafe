@@ -13,4 +13,4 @@ A detailed PDF report of our work is available inside the report/ directory
 
 ### Project Demo: 
 
-The demo version is hosted on the following ec2 (not always live): http://18.188.68.170/ 
+The demo version is hosted on the following ec2 (not always live): http://3.139.78.187/
